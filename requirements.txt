@@ -1,3 +1,3 @@
 git+https://github.com/hyperbard/hyperbard@main
 jupyterlab
-nb_black
+nb_black==1.0.7
